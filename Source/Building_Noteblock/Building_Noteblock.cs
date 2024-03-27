@@ -5,7 +5,7 @@ namespace Noteblock;
 
 public abstract class Building_Noteblock : Building
 {
-    private List<Pawn> touchingPawns = new List<Pawn>();
+    private List<Pawn> touchingPawns = [];
 
     public override void ExposeData()
     {
