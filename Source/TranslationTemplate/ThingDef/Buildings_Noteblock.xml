@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: noteblock (A5) -->
+  <TRAHS_Noteblock_FiveA.label>noteblock (A5)</TRAHS_Noteblock_FiveA.label>
+  <!-- EN: noteblock (A5 Sharp) -->
+  <TRAHS_Noteblock_FiveAs.label>noteblock (A5 Sharp)</TRAHS_Noteblock_FiveAs.label>
+  <!-- EN: noteblock (B5) -->
+  <TRAHS_Noteblock_FiveB.label>noteblock (B5)</TRAHS_Noteblock_FiveB.label>
+  <!-- EN: noteblock (C5) -->
+  <TRAHS_Noteblock_FiveC.label>noteblock (C5)</TRAHS_Noteblock_FiveC.label>
+  <!-- EN: noteblock (C5 Sharp) -->
+  <TRAHS_Noteblock_FiveCs.label>noteblock (C5 Sharp)</TRAHS_Noteblock_FiveCs.label>
+  <!-- EN: noteblock (D5) -->
+  <TRAHS_Noteblock_FiveD.label>noteblock (D5)</TRAHS_Noteblock_FiveD.label>
+  <!-- EN: noteblock (D5 Sharp) -->
+  <TRAHS_Noteblock_FiveDs.label>noteblock (D5 Sharp)</TRAHS_Noteblock_FiveDs.label>
+  <!-- EN: noteblock (E5) -->
+  <TRAHS_Noteblock_FiveE.label>noteblock (E5)</TRAHS_Noteblock_FiveE.label>
+  <!-- EN: noteblock (F5) -->
+  <TRAHS_Noteblock_FiveF.label>noteblock (F5)</TRAHS_Noteblock_FiveF.label>
+  <!-- EN: noteblock (F5 Sharp) -->
+  <TRAHS_Noteblock_FiveFs.label>noteblock (F5 Sharp)</TRAHS_Noteblock_FiveFs.label>
+  <!-- EN: noteblock (G5) -->
+  <TRAHS_Noteblock_FiveG.label>noteblock (G5)</TRAHS_Noteblock_FiveG.label>
+  <!-- EN: noteblock (G5 Sharp) -->
+  <TRAHS_Noteblock_FiveGs.label>noteblock (G5 Sharp)</TRAHS_Noteblock_FiveGs.label>
+</LanguageData>

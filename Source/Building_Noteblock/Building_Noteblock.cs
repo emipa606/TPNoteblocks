@@ -13,7 +13,7 @@ public abstract class Building_Noteblock : Building
         Scribe_Collections.Look(ref touchingPawns, "testees", LookMode.Reference);
     }
 
-    public override void Tick()
+    protected override void Tick()
     {
         if (!Spawned)
         {
@@ -30,7 +30,7 @@ public abstract class Building_Noteblock : Building
             }
 
             touchingPawns.Add(pawn);
-            CheckSpring(pawn);
+            checkSpring(pawn);
         }
 
         for (var j = 0; j < touchingPawns.Count; j++)
@@ -45,9 +45,9 @@ public abstract class Building_Noteblock : Building
         base.Tick();
     }
 
-    private void CheckSpring(Pawn p)
+    private void checkSpring(Pawn p)
     {
-        if (!Rand.Chance(SpringChance(p)))
+        if (!Rand.Chance(springChance()))
         {
             return;
         }
@@ -55,7 +55,7 @@ public abstract class Building_Noteblock : Building
         Spring(p);
     }
 
-    protected float SpringChance(Pawn p)
+    private static float springChance()
     {
         return 1f;
     }

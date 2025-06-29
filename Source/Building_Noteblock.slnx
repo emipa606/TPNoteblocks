@@ -1,0 +1,6 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="Building_Noteblock/Building_Noteblock.csproj" />
+</Solution>

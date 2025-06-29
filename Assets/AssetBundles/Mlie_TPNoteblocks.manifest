@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1695178691
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 132c7d9efabfd8384fa048222bfe021d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 132c7d9efabfd8384fa048222bfe021d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/Fs.mp3
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_Gs.png
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_G.png
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_C.png
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/D.mp3
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/C.mp3
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_As.png
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/B.mp3
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_Ds.png
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_Fs.png
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_Cs.png
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/A.mp3
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_E.png
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/E.mp3
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_F.png
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_B.png
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/Cs.mp3
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/G.mp3
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/As.mp3
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_A.png
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/Ds.mp3
+- Assets/Data/Mlie.TPNoteblocks/Textures/TRAHS/Things/Building/Notes/Noteblock_D.png
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/Gs.mp3
+- Assets/Data/Mlie.TPNoteblocks/Sounds/Notes/F.mp3
+Dependencies: []
